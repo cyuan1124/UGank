@@ -3,7 +3,7 @@
 
 ![「有干货」启动图标](https://github.com/Bakumon/UGank/raw/master/art/ic_launcher.png)
 
-[直接下载 APk](https://raw.githubusercontent.com/Bakumon/UGank/master/apk/ugank_release-1_0_0.apk)
+[直接下载 APk](https://raw.githubusercontent.com/Bakumon/UGank/master/apk/ugank_release-1_0_1.apk)
 
 **蒲公英下载**
 
@@ -31,6 +31,7 @@
 
 欢迎 [提 issues](https://github.com/Bakumon/UGank/issues/new)，提建议或 Bug
 
+- ~~上拉加载效果~~
 - 持久化搜索历史
 - ...
 
@@ -42,8 +43,9 @@
 - [Okhttp-HTTP](https://github.com/square/okhttp)
 - [Glide-图片加载](https://github.com/bumptech/glide)
 - [GlidePalette-Glide 和 Palette 的结合](https://github.com/florent37/GlidePalette)
-- [ButterKnife-View 注入](https://github.com/JakeWharton/butterknife)
-- [RxPermissions-6.0 运行时权限](https://github.com/tbruyelle/RxPermissions)
+- [ButterKnife-View-注入](https://github.com/JakeWharton/butterknife)
+- [RxPermissions-6.0-运行时权限](https://github.com/tbruyelle/RxPermissions)
+- [Android-RecyclerViewWithFooter-加载更多的RecyclerView ](https://github.com/android-cjj/Android-RecyclerViewWithFooter)
 
 ## 特别鸣谢
  [代码家](https://github.com/daimajia)  [干货集中营](http://gank.io/) 提供 API
